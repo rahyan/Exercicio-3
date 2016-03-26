@@ -1,8 +1,8 @@
 package time;
 
 public class time {
-	int hour;
-	int minute;
+	private int hour;
+	private int minute;
 	
 	time() {};
 	
